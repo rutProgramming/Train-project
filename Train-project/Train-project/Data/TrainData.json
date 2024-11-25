@@ -1,0 +1,22 @@
+﻿[
+  {
+    "TrainID": 123,
+    "TrainLine": 5,
+    "NumberOfCars": 8,
+    "TrainStatus": true,
+    "RegularRoute": "Tel Aviv - Haifa",
+    "Model": "Bombardier",
+    "ServiceDate": "2023-05-01T00:00:00"
+  },
+
+  {
+    "TrainID": 124,
+    "TrainLine": 2,
+    "NumberOfCars": 3,
+    "TrainStatus": true,
+    "RegularRoute": "Tel Aviv - Haifa",
+    "Model": "Bombardier",
+    "ServiceDate": "2023-05-01T00:00:00"
+  }
+
+]
